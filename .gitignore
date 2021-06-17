@@ -1,0 +1,6 @@
+vmaps*
+maps*
+*.exe
+resources*
+*.log
+SQL/world.sql
